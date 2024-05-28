@@ -7,7 +7,6 @@ readme = "README.md"
 packages = [{include = "django_perfect_breadcrumbs"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
 django = "^4.2.3"
 
 
